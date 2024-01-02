@@ -1,0 +1,8 @@
+port: 8080
+debug: false
+database:
+  host: localhost
+  port: 3308
+  user: root
+  password: 9CBDC8DF58A68C4B438FA6C71006BFE6E6E08A9F1E19369F8CEF44E47FAB2BE0
+  name: sv_microservice_login_database
